@@ -61,14 +61,15 @@ $(document).ready(function(){
 
 // resume section 
 
+
 document.getElementById("resume-link-1").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1dipXkaaT1jQBbob6-OvZo0U5xSPRLGHa/view?usp=sharing"
+    "https://drive.google.com/file/d/1tuqEjIrOqMARNNf5sMo-x4l6oYRePAw8/view?usp=drive_link"
   );
 };
 
 document.getElementById("resume-link-2").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1dipXkaaT1jQBbob6-OvZo0U5xSPRLGHa/view?usp=sharing"
+    "https://drive.google.com/file/d/1tuqEjIrOqMARNNf5sMo-x4l6oYRePAw8/view?usp=drive_link"
   );
 };
